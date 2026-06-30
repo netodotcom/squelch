@@ -1,0 +1,16 @@
+{
+  "name": "squelch",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "A playful web acid-bassline sketch tool — generate 303-style lines and jam.",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.2",
+    "vite": "^6.0.7"
+  }
+}
